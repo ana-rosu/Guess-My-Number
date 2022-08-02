@@ -143,7 +143,7 @@ h1 {
     transform: translateX(-50%);
   }
   .between {
-    top: 17rem;
+    top: 70%;
     right: 50%;
     transform: translateX(50%);
     width: fit-content;
